@@ -1,0 +1,8 @@
+{
+  "name": "raden-prem-store",
+  "version": "1.0.0",
+  "description": "Etalase Digital Layanan Aplikasi Premium - Raden Prem",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
