@@ -10,7 +10,7 @@ import youtubePremium from "./produk/youtube-premium/youtube-premium.js";
 
 export const STORE_SETTINGS = {
   "storeName": "RADEN PREM",
-  "whatsapp": "6282226840200",
+  "whatsapp": "6282232050095",
   "year": "2026"
 };
 
